@@ -360,7 +360,7 @@ if __name__ == "__main__":
             print(f'{Fore.LIGHTRED_EX}\nERROR: Multiple attractions found that include "{stripped_input}".'
                   f'\n{Fore.RESET}Did you mean one of these?:\n{searched_attr_list}\n')
 
-        # Input is invalid
+        #Input is invalid
         else:
             # If input is an id
             if stripped_input.strip('-.').isnumeric() or \
