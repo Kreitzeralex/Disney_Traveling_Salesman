@@ -36,7 +36,7 @@ This project seeks to apply the Traveling Salesman Problem, or TSP, to the beaut
   matplotlib is necessary for visualization.
   Packages like json, os, and others are necessary for some but not all the files to run.
   
-3. Select file with desired algorithm and run. 
+3. Select file with desired algorithm or select disney_tsp_final for the best algorithm and graphing functions and run. 
 
    
 # What will this look like?
