@@ -43,4 +43,5 @@ This project seeks to apply the Traveling Salesman Problem, or TSP, to the beaut
 ![image](https://user-images.githubusercontent.com/123010106/236727841-ac6dccfb-47cc-4baa-80d0-4f62f879c357.png)
 This is the initial image with marked attractions.
 
-After running any of the implementation files, a graphic will appear with black lines tracing out the calculated path.
+After running the disney_tsp_final script, an image similar to the the one below will appear, mapping out a path from any starting location. 
+![image](https://github.com/Kreitzeralex/Disney_Traveling_Salesman/assets/123031007/a9a03881-ba6a-4cdf-9001-e8cf50637d62)
